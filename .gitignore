@@ -2,3 +2,5 @@ CVCNN/
 *.h5
 Midterm -- TBrain/
 darknet/yolov3.weights
+keras-yolo3/yolov3.weights
+keras-yolo3/model_data/yolo.h5
