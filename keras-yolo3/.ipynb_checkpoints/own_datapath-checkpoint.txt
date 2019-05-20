@@ -1,6 +1,0 @@
-own_data/img/car1.jpg 52,12,544,313,6
-own_data/img/car1.jpg 52,12,544,313,6
-own_data/img/car1.jpg 52,12,544,313,6
-own_data/img/car1.jpg 52,12,544,313,6
-own_data/img/car1.jpg 52,12,544,313,6
-own_data/img/car1.jpg 52,12,544,313,6
