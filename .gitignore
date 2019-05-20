@@ -1,3 +1,4 @@
 CVCNN/
 *.h5
 Midterm -- TBrain/
+darknet/yolov3.weights
